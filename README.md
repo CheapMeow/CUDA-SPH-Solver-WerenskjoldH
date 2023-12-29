@@ -1,3 +1,9 @@
+## What does I do in this fork
+
+I add CMakeList and SDL2 chunk for easily compiling in Windows.
+
+Below is original repository readme.
+
 <p align="center"><img width=100% src="media/cudaSphSolverTitle.png"></p>
 
 <h4 align="center">CUDA-based hardware-accelerated particle solver</p>
